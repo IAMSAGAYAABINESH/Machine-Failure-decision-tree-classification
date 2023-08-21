@@ -1,4 +1,4 @@
-# Machine-Failure-decision-tree-classification
+# Machine-Failure-decision-tree-classification-Using-Decision-Tree-Classifier
 
 This is a classification project to classify if a machine has a failure or not using Decision Tree Classifier
 
